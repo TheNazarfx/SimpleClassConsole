@@ -1,0 +1,13 @@
+D:\OneDrive\КПЗ\SimpleClassConsole\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.exe
+D:\OneDrive\КПЗ\SimpleClassConsole\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.deps.json
+D:\OneDrive\КПЗ\SimpleClassConsole\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.runtimeconfig.json
+D:\OneDrive\КПЗ\SimpleClassConsole\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.runtimeconfig.dev.json
+D:\OneDrive\КПЗ\SimpleClassConsole\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.dll
+D:\OneDrive\КПЗ\SimpleClassConsole\SimpleClassConsole\bin\Debug\netcoreapp3.1\SimpleClassConsole.pdb
+D:\OneDrive\КПЗ\SimpleClassConsole\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.csprojAssemblyReference.cache
+D:\OneDrive\КПЗ\SimpleClassConsole\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.AssemblyInfoInputs.cache
+D:\OneDrive\КПЗ\SimpleClassConsole\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.AssemblyInfo.cs
+D:\OneDrive\КПЗ\SimpleClassConsole\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.csproj.CoreCompileInputs.cache
+D:\OneDrive\КПЗ\SimpleClassConsole\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.dll
+D:\OneDrive\КПЗ\SimpleClassConsole\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.pdb
+D:\OneDrive\КПЗ\SimpleClassConsole\SimpleClassConsole\obj\Debug\netcoreapp3.1\SimpleClassConsole.genruntimeconfig.cache
